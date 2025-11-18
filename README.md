@@ -103,7 +103,7 @@ repo:
   name: AmbedkarGPT-Intern-Task
   url_template: "https://github.com/Mayank142004/AmbedkarGPT-Intern-Task.git"
 
-<strong>steps:</strong>
+steps:
   - id: 1_clone_repo
     title: Clone the repository
     commands:
