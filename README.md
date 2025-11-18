@@ -88,18 +88,11 @@ This project demonstrates a functional RAG pipeline that:
 
 # ⚙️ Installation Guide
 
-<details>
-<summary><strong>1️⃣ Clone the Repository</strong></summary>
+<!-- <details>
+<summary><strong>1️ Clone the Repository</strong></summary> -->
 
 ```bash
-git clone https://github.com/<your-username>/AmbedkarGPT-Intern-Task.git
-cd AmbedkarGPT-Intern-Task
-</details>
 
-
-<details> <summary><strong>2️⃣ Create & Activate Virtual Environment</strong></summary>
-/details>
----
 
 # ambedkargpt_installation_guide: Complete Installation & Recovery Steps (YAML)
 # Copy-paste this YAML if you want a machine-readable / structured checklist of ALL steps.
