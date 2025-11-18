@@ -98,7 +98,7 @@ cd AmbedkarGPT-Intern-Task
 
 
 <details> <summary><strong>2️⃣ Create & Activate Virtual Environment</strong></summary>
-
+/details>
 ---
 
 # ambedkargpt_installation_guide: Complete Installation & Recovery Steps (YAML)
