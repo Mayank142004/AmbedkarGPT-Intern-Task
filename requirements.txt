@@ -1,0 +1,26 @@
+
+# AmbedkarGPT Requirements
+Python 3.8+
+
+# Core Framework
+langchain==0.1.20
+langchain-community==0.0.38
+
+# Vector Database
+chromadb==0.4.22
+
+# Embeddings
+sentence-transformers==2.3.1
+
+# Additional Dependencies
+pydantic==2.5.3
+typing-extensions==4.9.0
+numpy==1.24.3
+
+# # Ollama local client (langchain Ollama wrapper depends on having Ollama server running local)
+ollama>=0.1.0
+
+# SYSTEM REQUIREMENTS (manual install)
+# ollama (https://ollama.com/download)
+# models to pull:
+# ollama pull mistral
